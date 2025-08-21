@@ -27,15 +27,7 @@ hr{
     background-color: #ff0000;
 }
 
-.image{
-    /* position: relative;
-    left: 20%; */
-    width: 500px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 360px;
-}
+
 
 button{
     border-radius: 5px;
@@ -44,4 +36,5 @@ button{
     padding: 0 20px;
     height: 50px;
     width: 150px;
+    display: inline;
 }
