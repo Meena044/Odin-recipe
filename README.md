@@ -44,4 +44,11 @@ Odin-recipe/
 ---
 
 ## 📸 Demo
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/b3eaf045-6687-4443-868e-d763df30195b" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/1c8bc211-1913-4849-b0a2-d2d7a9343ba9" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/64b2ddaf-77d2-436a-9b4d-e560d05a6db0" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/d0ff5b23-619b-4491-965c-cde2828c688f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/7f96b1a4-c7f3-4801-b01a-ba8f98f50389" />
+
+
  
